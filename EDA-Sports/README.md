@@ -4,7 +4,8 @@ Objective: The objectives of this project are given as follows:
 1. Identify Most Successful Teams and Players.
 2.Analyze Factors Contributing to the Team Performance.
 
-# 💻Tools used: Power BI, Power Query, DAX Queries, Data Modelling
+# 💻Tools used: 
+Power BI, Power Query, DAX Queries, Data Modelling
 
 # 📊 Key Insights:
 - 'Mumbai Indians' was the team with most tournament wins.
